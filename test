@@ -1,0 +1,3 @@
+AIS-catcher -N 8100 -M T -o 5 2>> "$HOME/AIS-data/aiscatcher-errors.log" | tee -a "$HOME/AIS-data/recorridos_aisnew4_backup.jsonl"
+
+
